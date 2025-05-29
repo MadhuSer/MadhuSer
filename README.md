@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Madhumith Prasanth</h1>
+<h1 align="center">Hi, I'm Madhumith Prasanth</h1>
 <h3 align="center">A passionate blockchain developer from India</h3>
 
 - 🔭 I’m currently working on **Event Management System**
